@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://pbs.twimg.com/profile_images/1797678397981859840/DZUwB-nV_400x400.png" width="200" alt="Electron macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/Electron">
+ <a href="https://gnomik-gomik-apps.github.io/.github/Electron">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Electron macOS page">
  </a><br><br>
  <div align="center">
